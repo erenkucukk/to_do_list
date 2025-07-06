@@ -1,0 +1,14 @@
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\bin\Debug\to_do_list.exe.config
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\bin\Debug\to_do_list.exe
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\bin\Debug\to_do_list.pdb
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\obj\Debug\to_do_list.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\obj\Debug\to_do_list.Properties.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\obj\Debug\to_do_list.csproj.GenerateResource.cache
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\obj\Debug\to_do_list.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\obj\Debug\to_do_list.exe
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\obj\Debug\to_do_list.pdb
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\obj\Debug\to_do_list.exe.config
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\obj\Debug\to_do_list.csproj.Up2Date
+C:\Users\asus\Documents\Visual Studio 2022\to_do_list\to_do_list\obj\Debug\to_do_list.Form1.resources
